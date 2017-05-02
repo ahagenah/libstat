@@ -1,6 +1,6 @@
 <?php
-$hn = 'localhost';
-$db = 'whagenah';
-$un = 'root';
-$pw = '';
+$hn = 'localhost';.gitignore
+$db = 'whagenah';.gitignore
+$un = 'root';.gitignore
+$pw = '';.gitignore
 ?>
